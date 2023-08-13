@@ -1,5 +1,5 @@
 ### 🌱About me
-- Post-graduate in software engineering
+- Student majoring in Software Engineering
 - Golang, Java developer
 - Amateur UI designer and front-end developer
 
