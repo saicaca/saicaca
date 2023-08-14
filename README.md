@@ -3,6 +3,11 @@
 - Golang, Java developer
 - Amateur UI designer and front-end developer
 
+<details>
+<summary>Counter</summary>
+
+![:name](https://count.getloli.com/get/@saica-gh?theme=moebooru)
+</details>
 
 <!--
 **saicaca/saicaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
