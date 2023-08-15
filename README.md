@@ -2,7 +2,7 @@
 - Student majoring in Software Engineering
 - Golang, Java developer
 - Amateur UI designer and front-end developer
-- Contact: `echo 'emVwaHlpcmRAZ21haWwuY29t' | base64 -d`
+- Contact: `echo 'emVwaHlpcmRAZ21haWwuY29tCg==' | base64 -d`
 
 <details>
 <summary>Counter</summary>
