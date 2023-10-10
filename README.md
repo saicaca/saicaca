@@ -3,12 +3,7 @@
 - Golang, Java developer
 - Amateur UI designer and front-end developer
 - Contact: `echo 'emVwaHlpcmRAZ21haWwuY29tCg==' | base64 -d`
-
-<details>
-<summary>Counter</summary>
-
-![:name](https://count.getloli.com/get/@saica-gh?theme=moebooru)
-</details>
+- Profile pic source: [@おがたろう](https://twitter.com/tarouoga)
 
 <!--
 **saicaca/saicaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
