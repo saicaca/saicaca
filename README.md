@@ -3,6 +3,7 @@
 - Golang, Java developer
 - Amateur UI designer and front-end developer
 - Contact: `echo 'emVwaHlpcmRAZ21haWwuY29tCg==' | base64 -d`
+- Lang: English, 中文, 少し日本語
 - Profile pic source: [@おがたろう](https://twitter.com/tarouoga)
 
 <!--
