@@ -2,8 +2,10 @@
 - Student majoring in Software Engineering
 - Golang, Java developer
 - Amateur UI designer and front-end developer
-- Contact: `echo 'emVwaHlpcmRAZ21haWwuY29tCg==' | base64 -d`
-- Lang: English, 中文, 少し日本語
+- Lang: English, Chinese, Japanese (a little bit)
+- Contact:
+  - Email: `echo 'emVwaHlpcmRAZ21haWwuY29tCg==' | base64 -d`
+  - Telegram: [t.me/sai_tere](https://t.me/sai_tere)
 
 <!--
 **saicaca/saicaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
