@@ -1,7 +1,7 @@
 
 ### 🌱About
 
-<img src="https://i.kym-cdn.com/photos/images/original/002/474/361/171.gif" width="340px" align="right">
+<img src="https://i.kym-cdn.com/photos/images/original/002/474/361/171.gif" width="300px" align="right">
 
 - Student majoring in Software Engineering
 - Golang, Java developer
